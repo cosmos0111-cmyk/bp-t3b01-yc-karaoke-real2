@@ -1,48 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[가라오케]]></title>
-  <link>https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2</link>
-  <description><![CDATA[가라오케 - 염창 가라오케 찐후기 관련 최신 소식 및 가이드]]></description>
-  <language>ko</language>
-  <pubDate>Wed, 10 Jun 2026 20:45:46 GMT</pubDate>
-  <lastBuildDate>Wed, 10 Jun 2026 20:45:46 GMT</lastBuildDate>
-  <atom:link href="https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[염창 염창 가라오케 찐후기]]></title>
+  <link>https://t3b01-yc-karaoke-real2.pages.dev</link>
+  <description><![CDATA[염창 가라오케 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+  <language>ko-KR</language>
+  <pubDate>Thu, 28 May 2026 13:53:51 GMT</pubDate>
+  <lastBuildDate>Thu, 28 May 2026 13:53:51 GMT</lastBuildDate>
+  <atom:link href="https://t3b01-yc-karaoke-real2.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[염창 가라오케 찐후기 현장에서 놓치기 쉬운 포인트를 기록해봤다]]></title>
-      <link>https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/field_note-002-1yct6et.html</link>
-      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/field_note-002-1yct6et.html</guid>
-      <description><![CDATA[### 제목: 찜후기 히든딤 분석: LLM 미세 동작과 GPU 별 재현 조건의 불편한 진실 아, 진짜... 양자화 PR 머지 직전에 발견된 엣지케이스로 인해 발생하는 instruction following 저하 현상은 여러 GPU 별로 다르게 나타납니다. 이는 LLM ]]></description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[47분 지연? Cloudflare 캐시 무효화, S3 버저닝 폭증의 숨겨진 진실]]></title>
-      <link>https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/guide-003.html</link>
-      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/guide-003.html</guid>
-      <description><![CDATA[cloudflare, cloudflare_logo, amazon_s3, amazon_s3_logo, server_rack, network_cable, data_center, server_room, cloud_computing, distributed_computing, ]]></description>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AWS Lightsail 인스턴스의 CPU 크레딧 소진 3분 전 커널 패닉을 위한 On-call 엔지니어의 진실]]></title>
-      <link>https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/review-001-1yct6et.html</link>
-      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/review-001-1yct6et.html</guid>
-      <description><![CDATA[### 제목 창작 지시 #### POST DNA 52d6551e관점: 의사결정 직전 사용자가 놓치는 조건을 역순으로 검토 구조: question-ladder — 쉬운 질문에서 전문 질문으로 깊어지는 구조 근거 방식: 전문 용어를 일상 언어로 풀어 설명 도입: 시간과 장]]></description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Q4_K_M 양자화 PR 머지 전, 히든 딤 컷오프가 instruction following에 미치는 영향: GPU 아키텍처별 재현 조건 썰]]></title>
-      <link>https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/review-001.html</link>
-      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/review-001.html</guid>
-      <description><![CDATA[Q4_K_M 양자화 PR, 그러니까 `ggml-backend`에 Q4_K_M 지원 추가하는 그 PR 말이다. 이거 머지 전에 아주 골 때리는 엣지케이스 하나 잡혔던 거 기억하는가? 우리 팀에서 한창 테스트 돌리고 있었는데, 유독 특정 GPU에서 instruction f]]></description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Q4 양자화 후 떡락한 LLM 성능, &#39;이것&#39; 때문 아니었을까? (ft. 염창 가라오케 찐후기)]]></title>
-      <link>https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/review-002.html</link>
-      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-t3b01-yc-karaoke-real2/posts/review-002.html</guid>
-      <description><![CDATA[neural network, quantization, circuit diagram, abstract background, gradient, flowing data, hidden layer, node, connection, sparse, dense, data flow, ]]></description>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[염창 염창 가라오케 찐후기 - 공식 홈페이지 오픈 안내]]></title>
+      <link>https://t3b01-yc-karaoke-real2.pages.dev/</link>
+      <guid isPermaLink="true">https://t3b01-yc-karaoke-real2.pages.dev/</guid>
+      <description><![CDATA[염창 가라오케 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+      <pubDate>Thu, 28 May 2026 13:53:51 GMT</pubDate>
     </item>
 </channel>
 </rss>
